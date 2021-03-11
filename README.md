@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Johnny5stillalive
 - 👀 I’m interested in technology and programming.
-- 🌱 I’m currently learning Spanish and Python on top of pursuing my BS in Computer Science which has me learning Java and C++.
+- 🌱 I’m currently learning Python on my own while pursuing my BS in Computer Science which has me learning Java and C++.
 - 💞️ I’m looking to collaborate on anything but I am a pretty low level.
 - 📫 How to reach me (Left Blank.)
 
